@@ -1,0 +1,16 @@
+
+*.dll
+
+*.mdb
+
+*.class
+
+*.exe
+
+testAndroid/obj/
+
+**/obj/
+
+**/bin/
+
+**/vbcs.cache/
